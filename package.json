@@ -1,0 +1,13 @@
+{
+  "name": "ecommerce-store-root",
+  "version": "1.0.0",
+  "description": "NexaShop E-Commerce Full Stack Application",
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "server": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
