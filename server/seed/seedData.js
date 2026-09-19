@@ -3,7 +3,8 @@ const dotenv = require('dotenv');
 const Product = require('../models/Product');
 const User = require('../models/User');
 
-dotenv.config({ path: '../.env' });
+const path = require('path');
+dotenv.config({ path: path.join(__dirname, '..', '.env') });
 
 const reviewTemplates = [
   { name: 'Rahul Sharma', rating: 5, comment: 'Exceptional quality! Exceeded all my expectations. Fast delivery too.' },
