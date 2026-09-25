@@ -8,7 +8,7 @@
 
 A modern, responsive, full-stack e-commerce web application featuring dynamic product discovery, 3D interactive visuals, user authentication, cart management, checkout with multi-address support, order tracking, admin controls, and seamless dark/light theme switching.
 
-🔗 **Live Deployment:** [https://nexa-shop-23qjtsn8w-official-main.vercel.app/](https://nexa-shop-23qjtsn8w-official-main.vercel.app/)
+🔗 **Live Deployment:** [https://nexa-shop-23qjtsn8w-official-main.vercel.app/](https://nexa-shop-rho.vercel.app/)
 
 ---
 
